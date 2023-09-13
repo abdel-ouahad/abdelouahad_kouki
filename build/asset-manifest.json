@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/abdelouahad_kouki/static/css/main.bff5d7f8.css",
+    "main.js": "/abdelouahad_kouki/static/js/main.fc853591.js",
+    "static/media/ram.png": "/abdelouahad_kouki/static/media/ram.e3a61b06355998b1e495.png",
+    "static/media/secend.png": "/abdelouahad_kouki/static/media/secend.88a41116ba51dcc1b7a0.png",
+    "static/media/fa-solid-900.ttf": "/abdelouahad_kouki/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/abdelouahad_kouki/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/abdelouahad_kouki/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/forth.png": "/abdelouahad_kouki/static/media/forth.9925e8f27466b9b5d1ae.png",
+    "static/media/five.png": "/abdelouahad_kouki/static/media/five.9d120888aa9317b08f7f.png",
+    "static/media/fa-brands-400.woff2": "/abdelouahad_kouki/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/mainphoto.png": "/abdelouahad_kouki/static/media/mainphoto.2c0c66b03bf5251c7888.png",
+    "static/media/third.png": "/abdelouahad_kouki/static/media/third.f96b3566be67c2144836.png",
+    "static/media/six.png": "/abdelouahad_kouki/static/media/six.4d570a13632edcfc0371.png",
+    "static/media/logooo.png": "/abdelouahad_kouki/static/media/logooo.64d045c7258525a48d4c.png",
+    "static/media/fa-regular-400.ttf": "/abdelouahad_kouki/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/fa-regular-400.woff2": "/abdelouahad_kouki/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/fa-v4compatibility.ttf": "/abdelouahad_kouki/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/abdelouahad_kouki/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/abdelouahad_kouki/index.html",
+    "main.bff5d7f8.css.map": "/abdelouahad_kouki/static/css/main.bff5d7f8.css.map",
+    "main.fc853591.js.map": "/abdelouahad_kouki/static/js/main.fc853591.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bff5d7f8.css",
+    "static/js/main.fc853591.js"
+  ]
+}
